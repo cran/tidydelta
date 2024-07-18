@@ -1,0 +1,14 @@
+1a55ce97f54d206ff30131e31b677662 *DESCRIPTION
+594b84eaef4a3082a021d626091075c8 *LICENSE
+044e821db702b3beccc17c8706f060de *NAMESPACE
+242c13cf99b6bc20681b6b5a6d485c03 *NEWS.md
+2f33390759c78590e9cd9b1e00e362dd *R/tidydelta.R
+09e266d41e2f595214d6aa794c8d3a32 *README.md
+fbf69a4ea23f35bc4e0db36e29843d5f *man/cases_ext.Rd
+110a1c1d385ae003ccb39f7a117197ee *man/ext_bd_var.Rd
+513b8870dd191488f56f8a54c5588019 *man/figures/README-unnamed-chunk-2-1.png
+e33d90fb6e95c1dd3e290c2e69e3ecae *man/for_to_exp.Rd
+0dafa85ab6b98755fafff5183f562917 *man/tidydelta.Rd
+d359f66b93dcbf0a3cf5ea43ae93ef10 *man/where_env.Rd
+b05ef0e141ece62c5e6947ee499592a2 *tests/testthat.R
+9670bae8a80464b041249140ea9cf6d8 *tests/testthat/test-tidydelta.R
